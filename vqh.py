@@ -31,8 +31,8 @@ def start_threads(ip, port, opcode, num_threads=10):
         print("\nStopping all threads.")
 
 # **Start sending packets**
-ip = "78.46.65.243"
-port = 7582
+ip = "da ip of da server u wanna fk"
+port = 8192 # da port
 opcode = 'i'  # Change to 'c' or 'p' if needed
 num_threads = 2  # Increase for more speed
 
